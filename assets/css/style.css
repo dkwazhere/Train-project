@@ -1,0 +1,15 @@
+#form {
+    float: left;
+    border-color: black;
+    width: 400px;
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
+#list {
+    float: right;
+}
+#listhead {
+    float: right;
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
